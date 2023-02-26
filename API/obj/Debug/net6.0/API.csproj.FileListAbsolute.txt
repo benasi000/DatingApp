@@ -24,3 +24,4 @@
 /Volumes/ExternalDis/Projects/Udemy/ASPNET Core and Angular /DatingApp/API/obj/Debug/net6.0/API.pdb
 /Volumes/ExternalDis/Projects/Udemy/ASPNET Core and Angular /DatingApp/API/obj/Debug/net6.0/API.genruntimeconfig.cache
 /Volumes/ExternalDis/Projects/Udemy/ASPNET Core and Angular /DatingApp/API/obj/Debug/net6.0/ref/API.dll
+/Volumes/ExternalDis/Projects/Udemy/ASPNET Core and Angular /DatingApp/API/bin/Debug/net6.0/API
